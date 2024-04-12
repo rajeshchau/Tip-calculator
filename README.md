@@ -9,7 +9,7 @@ The Tip Calculator simplifies the process of calculating the total amount to be 
 ## How to Use
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/tip-calculator.git
+git clone https://github.com/rajeshchau/Tip-calculator.git
 
 markdown
 Copy code
